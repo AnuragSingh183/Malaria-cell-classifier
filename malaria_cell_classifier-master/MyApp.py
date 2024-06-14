@@ -7,7 +7,7 @@ from PIL import Image
 import numpy as np
 import keras
 # Load the saved model
-model = keras.models.load_model('my_model_1.keras')
+model = keras.models.load_model('my_model_1.h5')
 
 # Define Streamlit app layout
 st.title('Malaria cell Classification')
