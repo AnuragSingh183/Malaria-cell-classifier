@@ -29,6 +29,7 @@ OS: To interact with the operating system.
 To install these libraries, you can use the following command:
 
 pip install tensorflow keras pandas numpy matplotlib pillow scikit-learn streamlit
+
 Make sure you have these libraries installed to ensure the code runs smoothly both for model training and the web application.
 
 Contact Information
